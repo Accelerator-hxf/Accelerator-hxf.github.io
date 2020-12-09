@@ -18,7 +18,7 @@
 			<a id="lnkBlogLogo" href="#">
 			<img id="blogLogo" src="images/logo.gif" alt="博客logo" /></a>
 			<h1><a class="headermaintitle" href="http://justinyoung.cnblogs.com/">Yes!B/S!</a></h1>
-			<h2>Justin Young&#39;s blog</h2>
+				<h2>Accelerator&#39;s blog</h2>
 		</div>
 		<!--end: blogTitle 博客的标题和副标题 -->
 		<div id="navigator">
