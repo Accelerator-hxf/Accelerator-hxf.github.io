@@ -1,8 +1,5 @@
 非常感谢我的好朋友-FLCL-和醉酒欢声这两名来自xx站xx站的知乎大佬对我建立本站的大力支持，在此特将本站宝贵的开头赠与此二人！
 （鼓掌）
-+<!DOCTYPE html public "-//W3C//DTD XHTML 1.0 Transitional//EN" https://space.bilibili.com/85117695">
-<html xmlns="https://space.bilibili.com/85117695">
-
 <head id="Head">
 <title>博客皮肤模板</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
